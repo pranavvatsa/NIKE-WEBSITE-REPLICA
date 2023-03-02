@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url("backdrop-org.png");
+  background-size: 400px 250px;
+  background-blend-mode: lighten;
+  background-color: #000300; 
+}
